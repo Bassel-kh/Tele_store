@@ -1,8 +1,24 @@
 #1 --------------------------------------
-composer install
-npm install
-npm run dev
+git clone https://github.com/Bassel-kh/Tele_store.git
+#2 --------------------------------------
+1-
+    {
+    composer install
+    }
+2-
+    {
+    npm install
 
-php artisan serve
+    npm run dev
+    }
+3-
+    make .nve file in root_Project_folder  and copy the contain of env example to it
+
+4-
+    php artisan key:generate
+
+5-
+    run Wamp befor then run this command in terminal
+   { php artisan serve }
 
 

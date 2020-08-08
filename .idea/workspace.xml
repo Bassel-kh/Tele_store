@@ -25,25 +25,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="306b4bb0-2aba-493c-b1ce-659d5e33fe55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/AdminController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Main/MainController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/MyAuth/LoginController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/PaymentServices/PaymentServicesController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/User/UserController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/admin.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/auth1/login.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/main_index/index.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/paymentService/services.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/user/user.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Commands.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Commands.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -199,8 +189,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596893875964</updated>
-      <workItem from="1596893877066" duration="3315000" />
+      <workItem from="1596893877066" duration="5090000" />
+      <workItem from="1596899437865" duration="57000" />
     </task>
+    <task id="LOCAL-00001" summary="# 2 commit  main Pages and controllers">
+      <created>1596898481755</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596898481756</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,7 +217,15 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="# 2 commit  main Pages and controllers" />
+    <option name="LAST_COMMIT_MESSAGE" value="# 2 commit  main Pages and controllers" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1596898488906">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1596898488906" />
     <state x="500" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596893934933">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
