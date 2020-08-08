@@ -17,10 +17,17 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Auth::routes();
 
-Route::get('/home', 'HomeController@index')->name('home');
+Route::get('/index', 'Main\MainController@index')->name('index');
 
-Auth::routes();
+Route::get('/login', 'MyAuth\LoginController@login')->name('login');
+Route::get('/admin', 'Admin\adminController@adminPage')->name('admin.dashboard');
+Route::get('/user', 'User\UserController@userPage')->name('user.dashboard');
+Route::get('/services', 'PaymentServices\PaymentServicesController@payServicesPage')->name('payment_services');
 
-Route::get('/home', 'HomeController@index')->name('home');
+
+
+//Auth::routes();
+//
+//Route::get('/home', 'HomeController@index')->name('home');
+
